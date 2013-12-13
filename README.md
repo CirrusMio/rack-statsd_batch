@@ -7,7 +7,7 @@ to statsd in as few requests as possible.
 
 Add to your gemfile
 
-    gem 'rack-statsd-batch', git: 'git@github.com:CirrusMio/rack-statsd-batch'
+    gem 'rack-statsd-batch', git: 'git@github.com:CirrusMio/rack-statsd-batch', require: 'rack/statsd_batch'
 
 Add to your middleware in config/application.rb
 
