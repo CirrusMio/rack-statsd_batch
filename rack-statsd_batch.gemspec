@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.specification_version = 2
   s.required_rubygems_version = Gem::Requirement.new(">= 0")
 
-  s.name              = 'rack-statsd-batch'
+  s.name              = 'rack-statsd_batch'
   s.version           = '0.0.1'
   s.date              = '2013-12-13'
 
@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
 
   s.authors  = ['xtoddx (Todd Willey)']
   s.email    = 'xtoddx@gmail.com'
-  s.homepage = 'http://github.com/CirrusMio/rack-statsd-batch'
+  s.homepage = 'http://github.com/CirrusMio/rack-statsd_batch'
   s.license  = 'MIT'
 
   s.require_paths = %w[lib]
